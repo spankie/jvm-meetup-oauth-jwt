@@ -21,3 +21,5 @@
   I am an enthusiastic software developer with over 4 years experience working with various technologies building applications for both small businesses and established ones. I use technology to solve real life problems efficiently. Over the years I have gained experience working with various technologies including but not limited to programming languages like Golang, Java, javascript, python and and different databases.
 
 
+## Potrait:
+  https://avatars2.githubusercontent.com/u/13089295?s=460&u=d7a82300d47ac4d990accfb10406a472057216df&v=4
