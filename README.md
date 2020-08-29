@@ -23,3 +23,9 @@
 
 ## Potrait:
   https://avatars2.githubusercontent.com/u/13089295?s=460&u=d7a82300d47ac4d990accfb10406a472057216df&v=4
+
+
+
+resources:
+
+https://github.com/patternmatch/oauth2-blog

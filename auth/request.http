@@ -1,0 +1,21 @@
+GET http://localhost:8080/api/v1/todo
+Authorization: Bearer eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJzcGFua2llIiwiaWF0IjoxNTk4NjY0MDQwLCJleHAiOjE1OTg3NTA0NDB9.RJOc-gBD7it0gA8Q3yYDmfijFEnbAGMPruLpmPCDUZs
+
+
+POST http://localhost:8080/api/v1/todo HTTP/1.1
+content-type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJzcGFua2llIiwiaWF0IjoxNTk4NjY0MDQwLCJleHAiOjE1OTg3NTA0NDB9.RJOc-gBD7it0gA8Q3yYDmfijFEnbAGMPruLpmPCDUZs
+
+{
+    "name": "jvm meetup",
+    "description": "Talk about JWT authentication"
+}
+
+
+POST http://localhost:8080/api/v1/auth/login HTTP/1.1
+content-type: application/json
+
+{
+  "username": "spankie",
+  "password": "password"
+}
